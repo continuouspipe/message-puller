@@ -5,7 +5,7 @@ import (
     "cloud.google.com/go/pubsub"
     "flag"
     "log"
-    "github.com/continuouspipe/continuouspipe/message-puller/puller"
+    "github.com/continuouspipe/message-puller/puller"
     "os"
     "encoding/base64"
     "fmt"
